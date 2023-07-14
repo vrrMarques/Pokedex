@@ -1,0 +1,37 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: url('../../public/images/wallpaper.jpg');
+  background-size: 100%;
+  background-repeat:no-repeat;
+  background-color: #242324;
+    
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.logo{
+  width: 12rem;
+  height: 6rem;
+  display: flex;
+}
+
+.tittle{
+  color:black
+}
+
+.pokeImg{
+  width: 10rem;
+
+}
+
